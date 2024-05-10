@@ -1,0 +1,14 @@
+@tag
+Feature: Purchase te order from E-commerce Website
+ 
+
+  @tag2
+  Scenario Outline: Positive test of submitting the order
+    Given Logged in with username "sampriti.shome009@gmail.com" and password "Mellon@31"
+    When I check for the <value> in step
+    Then I verify the <status> in step
+
+    Examples: 
+      | name  												| password 	 |
+      | sampriti.shome009@gmail.com 	| Mellon@315 |
+     
