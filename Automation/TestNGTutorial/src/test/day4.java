@@ -11,7 +11,8 @@ public class day4 {
 	public void NewtravelLoan(String urlname) {
 		System.out.println("interest is too low");
 		System.out.println(urlname);
-
-	}
+		System.out.println("New Post Jira2");
+		System.out.println("New Post Jira3");
+		}
 	
 }
