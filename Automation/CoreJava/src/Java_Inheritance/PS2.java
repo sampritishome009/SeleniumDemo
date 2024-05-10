@@ -21,7 +21,8 @@ public class PS2 extends PS1{
 		System.out.println(ps3.multiplyTwo());
 		
 		System.out.println(ps3.multiplyThree());
-			
+		
+		System.out.println("New Log1");		
 		
 	}
 

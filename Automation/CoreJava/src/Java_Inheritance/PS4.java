@@ -19,7 +19,8 @@ public class PS4 { //another utility class as requested by clients
 	
 
 	public int multiplyThree() {
-		a=a*3;
+		a=a*5;
+		
 		return a;
 	}
 }
